@@ -1,5 +1,5 @@
 .sign-up-container {
-    max-width: 500px;
+    max-width: 1100px;
     margin: 0 auto;
 }
 
@@ -7,12 +7,12 @@
     display: flex;
 }
 
-.form-row .col-md {
+.form-row  .col-md {
     width: 100%;
     margin-left: 15px;
     margin-top: 10px;
 }
-.sign-up-container button{
+.sign-up-container button { 
     background: blue;
     color: white;
     border: none;
@@ -25,3 +25,22 @@
 .text-danger{
     color: red;
 }
+.form-row .col-md input{
+    height: 25px;
+    padding: 5px;
+    width: 100%;
+  }
+  .app {
+    text-align: right;
+    padding-bottom: 5px;
+  }
+
+
+
+
+
+
+
+
+
+    
