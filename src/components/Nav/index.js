@@ -3,3 +3,5 @@ export default function Nav() {
         <h1>This is Nav components</h1>
     )
 }
+
+    

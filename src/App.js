@@ -10,22 +10,24 @@ import Youth from './components/Youth';
 import Advantage from './components/Advantage';
 import Logo from './components/Logo';
 import Nav from './components/Nav';
+import Signupform from './components/Signupform';
 
 export default function App() {
     return (
         <div className="App">
-         <Header />
-         <Footer />
-         <Hero />
-         <Services />
-         <About />
-         <Team />
-         <Contact />
-         <Product />
-         <Youth />
-         <Advantage />
-         <Logo />
-         <Nav />
+         {/* <Header /> */}
+         {/* <Footer /> */}
+         {/* <Hero /> */}
+         {/* <Services /> */}
+         {/* <About /> */}
+         {/* <Team /> */}
+         {/* <Contact /> */}
+         {/* <Product /> */}
+         {/* <Youth /> */}
+         {/* <Advantage /> */}
+         {/* <Logo /> */}
+         {/* <Nav /> */}
+         <Signupform />
         </div> 
     )
         
