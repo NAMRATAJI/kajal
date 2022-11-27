@@ -11,6 +11,8 @@ import Advantage from './components/Advantage';
 import Logo from './components/Logo';
 import Nav from './components/Nav';
 import Signupform from './components/Signupform';
+import Signin from './components/Signin';
+import Marks from './components/Marks';
 
 export default function App() {
     return (
@@ -22,12 +24,14 @@ export default function App() {
          {/* <About /> */}
          {/* <Team /> */}
          {/* <Contact /> */}
-         {/* <Product /> */}
+          <Product />
          {/* <Youth /> */}
          {/* <Advantage /> */}
          {/* <Logo /> */}
          {/* <Nav /> */}
-         <Signupform />
+         {/* <Signupform /> */}
+           {/* < Signin />  */}
+           {/* <Marks /> */}
         </div> 
     )
         

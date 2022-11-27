@@ -40,6 +40,7 @@ export default function Signupform() {
 
         if (!forgotPass) setForgotPassError(true)
         else setForgotPassError(false)
+        
     }
     return (
         <div className="sign-up-container">

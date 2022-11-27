@@ -1,0 +1,13 @@
+.product-container{
+    margin: auto;
+    text-align: center;
+    background-color: blue;
+}
+.product-child-container{
+    text-align: bold;
+    color: red;
+}
+.price{
+    color:black;
+}
+
